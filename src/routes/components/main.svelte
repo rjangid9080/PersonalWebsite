@@ -22,7 +22,7 @@
 	<div class="z-10 w-4/5">
 		<span class="w-1/2 self-center">
 			<p class=" text-3xl sm:text-4xl sil font-semibold text-gray-700">Hey ! This is Rohit Jangid</p>
-			<p class="pt-4 pb-4 font-semibold text-gray-700">and looking forward to work as a full stack developer. <br> And promising that if you give him a chance then definitely <br> he gives you better results.</p>
+			<p class="pt-4 pb-4 font-semibold text-gray-700">and looking forward to work as a full stack developer. <br> He could be an effective and efficient resource for the company, <br> with the ability to develop.</p>
 			<button on:click={scrollToAbout}
 				class=" self-center shadow bg-blue-500 rounded text-white hover:bg-blue-600 p-2 text-xs font-semibold"
 				>Know him ?</button
