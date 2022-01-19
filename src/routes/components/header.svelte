@@ -14,7 +14,7 @@
 		</span>
 	</div>
 	<div class="flex space-x-6">
-		<a href="https://drive.google.com/file/d/1PLz2TpeEACeDlDxQNyyZVhtLIM0V-Jee/view?usp=sharing" target="_blank" class="hover:cursor-pointer font-semibold text-gray-600 hover:text-gray-900">Resume</a>
+		<a href="https://drive.google.com/file/d/1qIbIJmegMRTo9be8DTOrkBLGaWufrsJM/view?usp=sharing" target="_blank" class="hover:cursor-pointer font-semibold text-gray-600 hover:text-gray-900">Resume</a>
 		<span on:click={()=>animateScroll.scrollToBottom()} class="hover:cursor-pointer font-semibold text-gray-600 hover:text-gray-900">Contact</span>
 	</div>
 </section>
