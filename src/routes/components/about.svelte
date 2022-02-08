@@ -11,15 +11,19 @@
 				<span class="h-1 bg-blue-400 rounded-full" />
 			</div>
 			<div class="p-3">
-				<p class="pt-4 sm:pt-3 sm:pr-3 sm:pl-3 text-gray-700">Currently, He doesn't have any industry experience.
-					But excited to be a part of this industry. 
+				<p class="pt-4 sm:pt-3 sm:pr-3 sm:pl-3 text-gray-700">
+					Currently, He doesn't have any industry experience. But excited to be a part of this
+					industry.
 				</p>
-				<p class="pt-4 sm:pt-3 sm:pr-3 sm:pl-3 text-gray-700">You can check his <b>skills</b> section and some work on his
+				<p class="pt-4 sm:pt-3 sm:pr-3 sm:pl-3 text-gray-700">
+					You can check his <b>skills</b> section and some work on his
 					<b>project</b> section.
 				</p>
 				<p class="pt-4 sm:pt-3 sm:pr-3 sm:pl-3 text-gray-700">
-					He is looking forward to Job opportunities where he can contribute, learn and grow. If you have a good
-					opportunity that matches his skills and experience then don't hesitate to <b>contact</b> him.
+					He is looking forward to Job opportunities where he can contribute, learn and grow. If you
+					have a good opportunity that matches his skills and experience then don't hesitate to <b
+						>contact</b
+					> him.
 				</p>
 			</div>
 		</div>
