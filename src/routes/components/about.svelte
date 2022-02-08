@@ -74,6 +74,14 @@
 				class="p-2 sm:w-36 lg:w-40 flex flex-col sm:flex-row justify-center bg-slate-200 border-2 rounded-md shadow"
 			>
 				<span class="self-center text-gray-600">
+					<Icon icon="vscode-icons:file-type-reactjs" inline={true} />
+				</span>
+				<p class="self-center text-gray-600 pl-2 font-semibold">ReactJS</p>
+			</div>
+			<div
+				class="p-2 sm:w-36 lg:w-40 flex flex-col sm:flex-row justify-center bg-slate-200 border-2 rounded-md shadow"
+			>
+				<span class="self-center text-gray-600">
 					<Icon icon="logos:nodejs" inline={true} />
 				</span>
 				<p class="self-center text-gray-600 pl-2 font-semibold">Node JS</p>

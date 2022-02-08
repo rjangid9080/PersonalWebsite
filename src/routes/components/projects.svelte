@@ -1,5 +1,11 @@
 <script>
-	let projects=[
+	const projects=[
+		{
+			title:"Share Me",
+			description:`He has developed Share Me social site using ReactJs, Sanity, and Google Authentication where you can collect and share images of anything which you find interesting`,
+			link:'sharemerj.netlify.app',
+			repo:'share-me'
+		},
 		{
 			title:"CRUD Application",
 			description:`He has created Crud Application using SvelteKit as a frontend , NodeJS for server, ExpressJs as a backend framework , and MongoDB as Database.`,
