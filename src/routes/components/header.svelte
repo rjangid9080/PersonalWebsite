@@ -15,7 +15,7 @@
 	</div>
 	<div class="flex space-x-6">
 		<a
-			href="https://drive.google.com/file/d/1oq25BI8gJmmfpEgK3HJcZWHecOAE_gkX/view?usp=sharing"
+			href="https://drive.google.com/file/d/1i3rok4RRVpnmTPRD2NgxqgDbeSGm8urF/view?usp=sharing"
 			target="_blank"
 			class="hover:cursor-pointer font-semibold text-gray-600 hover:text-gray-900">Resume</a
 		>

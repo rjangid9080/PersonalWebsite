@@ -1,6 +1,12 @@
 <script>
 	const projects = [
 		{
+			title: 'Geektrust/admin_UI',
+			description: `He has developed a working interface for admins to see and delete users, using React JS and tailwind CSS. The users provided via an API. `,
+			link: 'rjangid9080-geektrust-admin-ui.netlify.app/',
+			repo: 'geektrust-admin-ui'
+		},
+		{
 			title: 'Share Me',
 			description: `He has developed Share Me social site using ReactJs, Sanity, and Google Authentication where you can collect and share images of anything which you find interesting`,
 			link: 'sharemerj.netlify.app',
